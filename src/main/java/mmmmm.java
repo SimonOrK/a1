@@ -4,5 +4,6 @@
  * @date: 2019-07-26 15:17
  */
 public class mmmmm {
-    public void main(){}
+    public void mainccccc(){}
+    public void o(){}
 }
